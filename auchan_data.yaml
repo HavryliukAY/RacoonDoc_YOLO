@@ -1,0 +1,5 @@
+train: /Users/dreamstore/Downloads/RacoonDoc/Code_2/datasets/Auchans_data/images/train
+val: /Users/dreamstore/Downloads/RacoonDoc/Code_2/datasets/Auchans_data/images/valid
+
+nc: 12
+names: ['Airplane','Car','Адреса доставки','Акт Надання Послуг','Загальна сума','Кому','Номер Заявки','ПДВ', 'Платник','Постачальник', 'Разом до сплати', 'разом без ПДВ']
