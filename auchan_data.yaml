@@ -1,5 +1,5 @@
-train: /Users/dreamstore/Downloads/RacoonDoc/Code_2/auchan_data/images/train
-val: /Users/dreamstore/Downloads/RacoonDoc/Code_2/auchan_data/images/valid
+train: /Users/dreamstore/Downloads/RacoonDoc/Code_2/auchan_all/images/train
+val: /Users/dreamstore/Downloads/RacoonDoc/Code_2/auchan_all/images/val
 
-nc: 10
-names: ['Адреса доставки','Акт Надання Послуг','Загальна сума','Кому','Номер Заявки','ПДВ','Платник','Постачальник','Разом до сплати','разом без ПДВ']
+nc: 15
+names: ['Адреса Доставки','Всього','Загальна Сума','Кому','Номер Заявки','ПДВ','Платник','Покупець','Постачальник','Разом','Разом без ПДВ','Разом до сплати','Сума ПДВ','У тому числі ПДВ','Усього з ПДВ']
